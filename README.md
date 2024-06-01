@@ -3,7 +3,7 @@
 Welcome to the Road Accident Dashboard project! This project is designed to visualize road accident data using Excel. The data used for this project is collected from Kaggle and serves as a dummy dataset for practice purposes. Below is a preview of the dashboard, along with an overview and instructions for getting started.
 
 ## Dashboard Preview
-![Road Accident Dashboard](file-tYtA9uzUKBCma591J135rccz)
+![Road Accident Dashboard](https://github.com/anshh-arora/Road-Accident-Dashboard/blob/main/Screenshot%202024-06-01%20002718.png)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -51,8 +51,8 @@ Ensure you have the following software installed:
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com)
-- **Kaggle**: [Follow me on Kaggle](https://www.kaggle.com)
+- **Email**: [ansharora.cs@gmail.com](mailto:ansharora.cs@gmail.com)
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/ansh-arora-data-scientist/)
+- **Kaggle**: [Follow me on Kaggle](https://www.kaggle.com/ansh1529)
 
 Feel free to customize this template according to your project details and personal contact information.
