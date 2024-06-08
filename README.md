@@ -48,11 +48,8 @@ Ensure you have the following software installed:
 - **Documentation**: Includes project documentation and this README file.
 
 ## Contact Information
-
 For any questions or feedback, feel free to reach out:
 
 - **Email**: [ansharora.cs@gmail.com](mailto:ansharora.cs@gmail.com)
 - **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/ansh-arora-data-scientist/)
 - **Kaggle**: [Follow me on Kaggle](https://www.kaggle.com/ansh1529)
-
-Feel free to customize this template according to your project details and personal contact information.
